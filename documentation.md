@@ -50,6 +50,35 @@ The git checkout command is used to switch between branches in a repository.
 ```
 git checkout <branchname>  
 ```
-
+# The git rm command
+The git rm command is used to remove the files from the working tree and the index.
+```
+ git rm <file Name>  
+ ```
+ # Git log
+ The git log command will display the most recent commits and the status of the head.
+ ```
+ git log
+ ```
+ # Git Status
+ The git status command is used to display the state of the repository and staging area.
+ ```
+ git status
+ ```
+ # Git Pull 
+ The pull command is used to access the changes (commits)from a remote repository to the local repository.
+ ```
+ git pull<option> [<repository URL><refspec>...] 
+ ```
+ # Git Push
+ The "git push" command is used to push into the repository. The push command can be considered as a tool to transfer commits between local and remote repositories.
+ ```
+ git push <option> [<Remote URL><branch name><refspec>...]  
+ ```
+ # Git Fetch
+ The "git fetch" command is used to pull the updates from remote-tracking branches.
+ ```
+ git fetch< repository Url>  
+ ```
 
 
