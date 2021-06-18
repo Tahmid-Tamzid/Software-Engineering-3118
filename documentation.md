@@ -18,4 +18,9 @@ It is used to record the changes in the repository.
 ```
 git commit
 ```
+# Git Clone
+The git clone is used to make a local copy of a remote repository.
+```
+git clone
+```
 
